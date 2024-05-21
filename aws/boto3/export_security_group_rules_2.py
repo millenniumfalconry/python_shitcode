@@ -33,6 +33,6 @@ def list_security_group_rules(security_group_id):
             print("An error occurred while describing security group rules.")
 
 # Replace 'security_group_id' with the ID of your security group
-security_group_id = 'sg-07dda14cb99ccb6e2'
+security_group_id = 'sg-00000000000'
 
 list_security_group_rules(security_group_id)
