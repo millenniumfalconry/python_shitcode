@@ -36,5 +36,5 @@ def enumerate_security_groups(instance_id):
         #print("------------------------")
 
 # Replace 'instance_id' with the actual ID of your EC2 instance
-instance_id = 'i-0561dc1d5a003dd67'
+instance_id = 'i-0000000000000'
 enumerate_security_groups(instance_id)
