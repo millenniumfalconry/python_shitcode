@@ -1,7 +1,7 @@
 import boto3
 
 # EC2 instance ID
-ec2_instance_id = "i-0561dc1d5a003dd67"
+ec2_instance_id = "i-000000000000"
 
 # AWS credentials and region
 #aws_access_key_id = "YOUR_ACCESS_KEY"
