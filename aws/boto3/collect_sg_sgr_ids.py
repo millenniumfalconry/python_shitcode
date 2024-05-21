@@ -43,7 +43,7 @@ def find_security_group_with_bad_ip(instance_id, bad_ip_address):
     return matching_security_groups
 
 # Replace 'instance_id' with the ID of your EC2 instance
-instance_id = 'i-0475d38fc2fd4efe1'
+instance_id = 'i-00000000000'
 # Replace 'bad_ip_address' with the specific IP address that you consider as bad
 bad_ip_address = '24.34.53.12/32'
 
