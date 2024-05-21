@@ -69,5 +69,5 @@ def lambda_handler(event, context):
 ###Test event
 #{
 #  "bad_ip_addressses": "1.1.1.1"
-#  "security_group_id": "i-0561dc1d5a003dd67"
+#  "security_group_id": "i-00000000000"
 #}
